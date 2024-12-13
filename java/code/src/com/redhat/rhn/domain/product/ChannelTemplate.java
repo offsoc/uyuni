@@ -67,8 +67,8 @@ public class ChannelTemplate extends BaseDomainHelper {
     private String gpgKeyFingerprint;
 
     /**
-￼     * Constructor
-￼     */
+     * Constructor
+     */
     public ChannelTemplate() {
     }
 
